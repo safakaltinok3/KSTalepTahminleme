@@ -1,0 +1,4 @@
+pandas == 2.0.3
+panel == 1.2.3
+bokeh == 3.2.1
+azure-storage-blob == 12.16.0
